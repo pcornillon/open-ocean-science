@@ -38,6 +38,12 @@
             "location": "Morro Bay, California, USA",
             "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
         },
+        "properties": {
+            "name": "Gulf Stream",
+            "type": "Current",
+            "location": "Western North Atlantic",
+            "description": "Major ocean current first mapped by Ben Franklin."
+        },
         "id": "e819bfc4-d1e5-4c9d-b26b-918ec7edb956"
     }]
 }
